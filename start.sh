@@ -4,7 +4,7 @@ then
   git clone https://github.com/HDCinema4U/King-Repo /King-Repo
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /Lucifer
+  git clone $UPSTREAM_REPO /King-Repo
 fi
 cd /Lucifer
 pip3 install -U -r requirements.txt
