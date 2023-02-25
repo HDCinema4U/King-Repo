@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/kdbotz/Lucifer",
-    "repository": "https://github.com/kdbotz/Lucifer",
+    "website": "https://github.com/HDCinema4U/King-Repo",
+    "repository": "https://github.com/HDCinema4U/King-Repo",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -95,7 +95,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
